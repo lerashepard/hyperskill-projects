@@ -1,0 +1,1 @@
+This repository contains my implementations of [Hyperskill](https://hyperskill.org/) projects in [Python Core](https://hyperskill.org/tracks/2) and [SQL with Python](https://hyperskill.org/tracks/30) tracks.
